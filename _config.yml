@@ -23,12 +23,12 @@ repository               : "portfolio-template-test/ramiz-moktader.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "GeoCodingLab"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  bio              : "We provide high qualality geocoding services."
+  location         : "Bangladesh"
+  employer         : "Self-Employed"
+  uri              : "geocodinglab.com"
   email            : "none@example.org" 
 
   # Academic websites
