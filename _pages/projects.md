@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+Here you can write about your projects, add links, or embed images.
+
+
+
 ## Ongoing Projects
 - 🌱 Urban vegetation monitoring with Sentinel-2
 - 🧠 Brain cancer detection with deep learning
