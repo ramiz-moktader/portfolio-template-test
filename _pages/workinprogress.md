@@ -12,5 +12,5 @@ See below list of work in progress
 
 <ul> {% include base_path %}
 {% for post in site.workinprogress %}
-  {% include archive-single.html %}
+  {% include archive-single-talk.html %}
 {% endfor %} </ul>
