@@ -9,6 +9,6 @@ redirect_from:
 
   <ul> {% include base_path %}
     {% for post in site.projects %}
-      {% include archive-single.html %}
+      {% include archive-single-talk.html %}
     {% endfor %}
     </ul>
