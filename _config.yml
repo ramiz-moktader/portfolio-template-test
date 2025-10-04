@@ -299,6 +299,14 @@ defaults:
       layout: single
       author_profile: true
       share: true
+  - scope:
+      path: "" 
+      type: workinprogress
+    values:
+      layout: single
+      author_profile: true
+      share: true 
+      comments: true
 
 
 # Sass/SCSS
