@@ -6,9 +6,10 @@ author_profile: true
 redirect_from:
   - /project
 ---
-
-  <ul> {% include base_path %}
+<ul> {% include base_path %}
     {% for post in site.projects %}
       {% include archive-single-talk.html %}
     {% endfor %}
-    </ul>
+</ul>
+
+## This is the landing page of projects 
