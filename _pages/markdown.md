@@ -365,8 +365,12 @@ You can also write larger blocks of code with syntax highlighting supported for 
 
 ```python
 print('Hello World!')
-```
 
+```
+```python
+def add(a,b):
+  return a+b 
+```
 or R:
 
 ```R
@@ -452,5 +456,16 @@ This allows you to denote <var>variables</var>.
 ***
 **Footnotes**
 
-The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
+
+> this is a block quoa
+>> this is a nested block 
+
+
+
+
+
+
+
+
+The `add` method in the.  footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
 
