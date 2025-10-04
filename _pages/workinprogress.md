@@ -10,7 +10,7 @@ author_profile: true
 See below list of work in progress 
 === 
 
-{% include base_path %}
-{% for item in site.workinprogress %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
+<ul> {% include base_path %}
+{% for post in site.workinprogress %}
+  {% include archive-single.html %}
+{% endfor %} </ul>
